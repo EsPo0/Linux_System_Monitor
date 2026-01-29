@@ -1,4 +1,4 @@
-# Linux_Monitor
+# Linux_System_Monitor
 
 This program allows to monitor each cpu and thread load which displayed both in bar and in percent.
 It also displays the total available, free and used RAM on the system.
